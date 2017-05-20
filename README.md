@@ -8,5 +8,4 @@ This is a PiCamera Curses Interface made in python. This lets the user control t
 
 On Raspbian Jessie Lite run the following steps:
 
-* Install `pip` with `sudo apt-get install -qy python-pip`
-* Install `picamera` module with `sudo pip install picamera`
+* Install `sudo apt-get install -qy python-picamera`
